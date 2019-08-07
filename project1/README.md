@@ -3,7 +3,7 @@
 Use probabilistic graphical model to analyze handwriting formations. Constructed different graph structures and evaluated their likelihood based on dataset. Found the most and least probable formation using ancestral sampling approach.
 
 Consider two letter "th" in this study. Six features of this pattern are defined as
-- [img]http://www.sciweavers.org/tex2img.php?eq=x_%7B1%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0[/img] Height relation of t to h
+- ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B1%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Height relation of t to h
   - t shorter than h
   - t even with h
   - t taller than h
