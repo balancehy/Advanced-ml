@@ -30,7 +30,7 @@ Consider two letter "th" in this study. Six features of this pattern are defined
   - no set pattern
 - ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B6%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of t
   - tented
-  - single stroke
+  - single stroke 
   - looped
   - closed
   - mixture of shapes
