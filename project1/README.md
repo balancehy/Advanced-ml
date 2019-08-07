@@ -2,7 +2,7 @@
 
 Use probabilistic graphical model to analyze handwriting formations. Constructed different graph structures and evaluated their likelihood based on dataset. Found the most and least probable formation using ancestral sampling approach.
 
-Consider two letter "th" in this study. Six features of this pattern are defined as
+Consider two letter "th" in this study. Six features of this pattern are defined as followings. Each feature has several values.
 - ![](https://latex.codecogs.com/gif.latex?x_%7B1%7D) Height relation of t to h
   - t shorter than h
   - t even with h 
@@ -35,4 +35,5 @@ Consider two letter "th" in this study. Six features of this pattern are defined
   - closed
   - mixture of shapes
 
-![](figures/th_1.png)
+For example, the 
+![](figures/th_1.png) ![](figrue/th_2.png)
