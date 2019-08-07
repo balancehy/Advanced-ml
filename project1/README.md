@@ -36,4 +36,4 @@ Consider two letter "th" in this study. Six features of this pattern are defined
   - mixture of shapes
 
 For example, the 
-![](figures/th_1.png) ![](figrue/th_2.png)
+![](figures/th_1.png) ![](figures/th_2.png)
