@@ -14,16 +14,16 @@ Consider two letter "th" in this study. Six features of this pattern are defined
   - curved left side and straight right side
   - both sides curved
   - no fixed pattern
-- ![img](http://www.sciweavers.org/tex2img.php?eq=x_%7B3%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of arch of h
+- ![img](https://latex.codecogs.com/gif.latex?x_%7B3%7D) Shape of arch of h
   - Round arch
   - pointed
   - no set pattern
-- ![img](http://www.sciweavers.org/tex2img.php?eq=x_%7B4%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Height of cross on t staff
+- ![img](https://latex.codecogs.com/gif.latex?x_%7B4%7D) Height of cross on t staff
   - Upper half of staff
   - lower half of staff
   - above staff
   - no fixed pattern
-- ![img](http://www.sciweavers.org/tex2img.php?eq=x_%7B5%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Baseline of h
+- ![img](https://latex.codecogs.com/gif.latex?x_%7B5%7D) Baseline of h
   - slanting upwards
   - slanting downward
   - baseline even
