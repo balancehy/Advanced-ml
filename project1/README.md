@@ -3,32 +3,32 @@
 Use probabilistic graphical model to analyze handwriting formations. Constructed different graph structures and evaluated their likelihood based on dataset. Found the most and least probable formation using ancestral sampling approach.
 
 Consider two letter "th" in this study. Six features of this pattern are defined as
-- ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B1%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Height relation of t to h
+- ![img](http://www.sciweavers.org/tex2img.php?eq=x_%7B1%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Height relation of t to h
   - t shorter than h
   - t even with h 
   - t taller than h
   - no pattern
-- ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B2%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of loop of h
+- ![img](http://www.sciweavers.org/tex2img.php?eq=x_%7B2%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of loop of h
   - retraced
   - curved right side and straight left side
   - curved left side and straight right side
   - both sides curved
   - no fixed pattern
-- ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B3%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of arch of h
+- ![img](http://www.sciweavers.org/tex2img.php?eq=x_%7B3%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of arch of h
   - Round arch
   - pointed
   - no set pattern
-- ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B4%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Height of cross on t staff
+- ![img](http://www.sciweavers.org/tex2img.php?eq=x_%7B4%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Height of cross on t staff
   - Upper half of staff
   - lower half of staff
   - above staff
   - no fixed pattern
-- ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B5%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Baseline of h
+- ![img](http://www.sciweavers.org/tex2img.php?eq=x_%7B5%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Baseline of h
   - slanting upwards
   - slanting downward
   - baseline even
   - no set pattern
-- ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B6%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of t
+- ![img](http://www.sciweavers.org/tex2img.php?eq=x_%7B6%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of t
   - tented
   - single stroke 
   - looped
