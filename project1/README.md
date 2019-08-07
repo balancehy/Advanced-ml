@@ -35,6 +35,7 @@ Consider two letter "th" in this study. Six features of this pattern are defined
   - closed
   - mixture of shapes
 
-For example, the first image can be expressed as ![](https://latex.codecogs.com/gif.latex?x_%7B1%7D%5E%7B1%7D%2Cx_%7B2%7D%5E%7B0%7D%2Cx_%7B3%7D%5E%7B0%7D%2Cx_%7B4%7D%5E%7B3%7D%2Cx_%7B5%7D%5E%7B0%7D%2Cx_%7B6%7D%5E%7B1%7D)
+For example, the first sample can be expressed as ![](https://latex.codecogs.com/gif.latex?x_%7B1%7D%5E%7B1%7D%2Cx_%7B2%7D%5E%7B0%7D%2Cx_%7B3%7D%5E%7B0%7D%2Cx_%7B4%7D%5E%7B3%7D%2Cx_%7B5%7D%5E%7B0%7D%2Cx_%7B6%7D%5E%7B1%7D). The second sample ![](https://latex.codecogs.com/gif.latex?x_%7B1%7D%5E%7B1%7D%2Cx_%7B2%7D%5E%7B1%7D%2Cx_%7B3%7D%5E%7B0%7D%2Cx_%7B4%7D%5E%7B1%7D%2Cx_%7B5%7D%5E%7B0%7D%2Cx_%7B6%7D%5E%7B2%7D) 
 
 ![](figures/th_1.png)           ![](figures/th_2.png)
+        (1 )                            (2)
