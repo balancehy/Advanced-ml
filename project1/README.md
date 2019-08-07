@@ -5,7 +5,7 @@ Use probabilistic graphical model to analyze handwriting formations. Constructed
 Consider two letter "th" in this study. Six features of this pattern are defined as
 - ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B1%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Height relation of t to h
   - t shorter than h
-  - t even with h
+  - t even with h 
   - t taller than h
   - no pattern
 - ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B2%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of loop of h
