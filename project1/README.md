@@ -8,7 +8,7 @@ Consider two letter "th" in this study. Six features of this pattern are defined
   - t even with h 
   - t taller than h
   - no pattern
-- ![img](http://www.sciweavers.org/tex2img.php?eq=x_%7B2%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of loop of h
+- ![img](https://latex.codecogs.com/gif.latex?x_%7B2%7D) Shape of loop of h
   - retraced
   - curved right side and straight left side
   - curved left side and straight right side
