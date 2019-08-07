@@ -4,6 +4,7 @@ Use probabilistic graphical model to analyze handwriting formations. Constructed
 
 Consider two letter "th" in this study. Six features of this pattern are defined as 
 - Height relation of t to h
+  - dadfdf 
 - Shape of loop of h
 - Shape of arcs of h
 - Height of cross on t staff
