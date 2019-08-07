@@ -8,27 +8,27 @@ Consider two letter "th" in this study. Six features of this pattern are defined
   - t even with h
   - t taller than h
   - no pattern
-- $x_2$ Shape of loop of h
+- ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B2%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of loop of h
   - retraced
   - curved right side and straight left side
   - curved left side and straight right side
   - both sides curved
   - no fixed pattern
-- $x_3$ Shape of arch of h
+- ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B3%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of arch of h
   - Round arch
   - pointed
   - no set pattern
-- $x_4$ Height of cross on t staff
+- ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B4%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Height of cross on t staff
   - Upper half of staff
   - lower half of staff
   - above staff
   - no fixed pattern
-- $x_5$ Baseline of h
+- ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B5%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Baseline of h
   - slanting upwards
   - slanting downward
   - baseline even
   - no set pattern
-- $x_6$ Shape of t
+- ![equation](http://www.sciweavers.org/tex2img.php?eq=x_%7B6%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of t
   - tented
   - single stroke
   - looped
