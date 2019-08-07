@@ -39,6 +39,6 @@ For example, the first sample can be expressed as ![](https://latex.codecogs.com
 
 ![](figures/th_1.png)           ![](figures/th_2.png)
 
-   [1]                            (2)
+       [1]                               [2]
         
 We are given all marginal probability of each feature for its each value, and some conditional probability indicating the dependency between twe features. Then we can construct Bayesian network to do inference and query task.
