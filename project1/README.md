@@ -28,7 +28,7 @@ Consider two letter "th" in this study. Six features of this pattern are defined
   - slanting downward
   - baseline even
   - no set pattern
-- ![img](http://www.sciweavers.org/tex2img.php?eq=x_%7B6%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) Shape of t
+- ![img](https://latex.codecogs.com/gif.latex?x_%7B6%7D) Shape of t
   - tented
   - single stroke 
   - looped
