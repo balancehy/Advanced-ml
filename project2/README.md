@@ -19,3 +19,8 @@ dist(left,right) meassures the Euclidean distance between the outputs of share n
 
 Siamese network works well with imbalanced data. In the dataset of this project, the handwritting image of some writers may have much fewer number than others, in which Siamese does better.
 
+## Explainable learning
+A multitask deep learning model is used for this purpose. It can be divided into two parts. The first part contains several convolutional and max-pooling layers that are used for feature extraction. The second part contains 15 fully connected network whose inputs are the embeddings from the first part and outputs are 15 categorical values. 
+![](figures/task4)  
+
+The explainability lies in the embedding of first part network and 15 feature network. The cosine similarity of embeddings in first part network for two images can determine if they are from same or different writer. The embeddings of 15 feature network can help to expain why they are from same or different writer.
